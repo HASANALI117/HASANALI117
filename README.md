@@ -30,7 +30,7 @@
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Django](https://img.shields.io/badge/-React-000?&logo=Django)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 ### What I'm interested to learn
