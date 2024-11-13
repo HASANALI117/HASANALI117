@@ -48,5 +48,7 @@
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/HASANALI117/HASANALI117/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="HASANALI117" />
 </p>
-
-<img align="center" style="width: 100%; height:30%" src="https://github-readme-stats.vercel.app/api?username=HASANALI117&show_icons=true&locale=en&theme=onedark" alt="HASANALI117" />
+<br>
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=HASANALI117&show_icons=true&locale=en&theme=onedark" alt="HASANALI117" />
+</p>
